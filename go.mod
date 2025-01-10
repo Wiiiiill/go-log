@@ -1,3 +1,3 @@
-module github.com/Wiiiiill/log4go
+module github.com/Wiiiiill/go-log
 
 go 1.19
